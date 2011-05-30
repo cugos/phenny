@@ -1,0 +1,20 @@
+Phenny-Speak Module's Licence:
+
+Copyright 2008, Noah Slater <nslater@bytesexual.org>
+
+# Copying and distribution of this file, with or without modification, are
+# permitted in any medium without royalty provided the copyright notice and this
+# notice are preserved.
+
+# Little bits of glue by Tim Dobson. No copyright claimed.
+
+Phenny-Log Module's Licence:
+
+Copyright 2008, Noah Slater <nslater@bytesexual.org>
+
+# Copying and distribution of this file, with or without modification, are
+# permitted in any medium without royalty provided the copyright notice and this
+# notice are preserved.
+
+# Little bits of glue by Tim Dobson. No copyright claimed.
+
